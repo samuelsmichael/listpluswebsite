@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiBrProject", "MiBrProject\MiBrProject.csproj", "{5A188760-D152-4AA3-900E-CF0FE3E45B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDCommon", "..\Egout\DDCommon.cs\DDCommon.csproj", "{42739D6A-683C-4C81-8461-26335523AE8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GIGWebControlLibrary", "..\Egout\GIGWebControlLibrary\GIGWebControlLibrary.csproj", "{B03264BC-FFAD-4013-B265-7735D683AFC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonServerSide", "..\UtilityRecruiter\UtilityRecruiter\CommonServerSide\CommonServerSide.csproj", "{4CB084D4-A6BE-4AB6-A1C7-0378FF56DCA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonClientSide", "..\UtilityRecruiter\UtilityRecruiter\CommonClientSide\CommonClientSide.csproj", "{B933F409-B300-4D16-9A7E-29BCB6828326}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 6
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\Egout\\DDCommon.cs\\DDCommon.csproj
+		SccProjectName1 = \u0022$/EU.root/EU/Visual\u0020Studio\u00202005/JDProjects/Egout/DDCommon.cs\u0022,\u0020IAAAAAAA
+		SccLocalPath1 = ..\\Egout\\DDCommon.cs
+		SccProjectUniqueName2 = ..\\Egout\\GIGWebControlLibrary\\GIGWebControlLibrary.csproj
+		SccProjectName2 = \u0022$/EU.root/EU/Visual\u0020Studio\u00202005/JDProjects/Egout/GIGWebControlLibrary\u0022,\u0020WAAAAAAA
+		SccLocalPath2 = ..\\Egout\\GIGWebControlLibrary
+		SccProjectUniqueName3 = ..\\UtilityRecruiter\\UtilityRecruiter\\CommonServerSide\\CommonServerSide.csproj
+		SccProjectName3 = \u0022$/EU.root/EU/Visual\u0020Studio\u00202005/JDProjects/UtilityRecruiter/UtilityRecruiter/CommonServerSide\u0022,\u0020NJBAAAAA
+		SccLocalPath3 = ..\\UtilityRecruiter\\UtilityRecruiter\\CommonServerSide
+		SccProjectUniqueName4 = ..\\UtilityRecruiter\\UtilityRecruiter\\CommonClientSide\\CommonClientSide.csproj
+		SccProjectName4 = \u0022$/EU.root/EU/Visual\u0020Studio\u00202005/JDProjects/UtilityRecruiter/UtilityRecruiter/CommonClientSide\u0022,\u0020UIBAAAAA
+		SccLocalPath4 = ..\\UtilityRecruiter\\UtilityRecruiter\\CommonClientSide
+		SccProjectUniqueName5 = MiBrProject\\MiBrProject.csproj
+		SccLocalPath5 = .
+		SccProjectFilePathRelativizedFromConnection5 = MiBrProject\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A188760-D152-4AA3-900E-CF0FE3E45B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A188760-D152-4AA3-900E-CF0FE3E45B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A188760-D152-4AA3-900E-CF0FE3E45B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A188760-D152-4AA3-900E-CF0FE3E45B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42739D6A-683C-4C81-8461-26335523AE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42739D6A-683C-4C81-8461-26335523AE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42739D6A-683C-4C81-8461-26335523AE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42739D6A-683C-4C81-8461-26335523AE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B03264BC-FFAD-4013-B265-7735D683AFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03264BC-FFAD-4013-B265-7735D683AFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03264BC-FFAD-4013-B265-7735D683AFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03264BC-FFAD-4013-B265-7735D683AFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB084D4-A6BE-4AB6-A1C7-0378FF56DCA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB084D4-A6BE-4AB6-A1C7-0378FF56DCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB084D4-A6BE-4AB6-A1C7-0378FF56DCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB084D4-A6BE-4AB6-A1C7-0378FF56DCA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B933F409-B300-4D16-9A7E-29BCB6828326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B933F409-B300-4D16-9A7E-29BCB6828326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B933F409-B300-4D16-9A7E-29BCB6828326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B933F409-B300-4D16-9A7E-29BCB6828326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

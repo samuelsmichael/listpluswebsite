@@ -1,0 +1,84 @@
+body
+{
+	padding-left:45px;
+	padding-right:45px;
+	padding-top:19px;
+	width:800px;
+}
+.policy-statement
+{
+	padding:10px;
+	border-bottom: black thin solid;
+	text-align: center;
+	border-left: black thin solid;
+	font-style: italic;
+	font-size: 14pt;
+	border-top: black thin solid;
+	font-weight: bold;
+	border-right: black thin solid;
+}
+.body-small 
+{
+	font-size:8pt;
+}
+.titular-medium
+{
+	font-weight: bold;
+	font-size: 1.1em;
+	font-family: Serif;
+	font-style:italic;
+}
+.titular-large
+{
+	font-weight: bold;
+	font-size: 1.4em;
+	font-family: Serif;
+	font-style:italic;
+}
+.body-emphasis 
+{
+	font-size:14pt;
+}
+.product-emphasis 
+{
+	font-style:italic;
+	font-weight:bold;
+}
+.main-body 
+{
+	font-size:12pt;
+}
+.quick-start-verbiage 
+{
+	font-size:14pt;
+}
+
+/*CollapsiblePanel*/
+.collapsePanel {
+	
+	background-color:white;
+	overflow:hidden;
+}
+
+.collapsePanelHeader{
+	width:100%;
+	height:30px;
+	background-image: url(images/bg-menu-main.png);
+	background-repeat:repeat-x;
+	color:#FFF;
+	font-weight:bold;
+}
+.collapsePanel {
+	
+	background-color:white;
+	overflow:hidden;
+}
+
+.collapsePanelHeader{
+	width:100%;
+	height:30px;
+	background-image: url(images/bg-menu-main.png);
+	background-repeat:repeat-x;
+	color:#FFF;
+	font-weight:bold;
+}
